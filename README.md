@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Sandbox doing 2x2 and 3x3 matrix multiplications.
+  name: matrix-operations-solver version: 1.0 type: Repository author: VarshuAi description: >   Sandbox doing 2x2 and 3x3 matrix multiplications. primary_tech: CSS
 primary_tech: CSS
 ```
 
